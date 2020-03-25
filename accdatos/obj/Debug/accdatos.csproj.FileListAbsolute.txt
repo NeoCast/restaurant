@@ -1,0 +1,9 @@
+C:\Users\thoma\source\repos\restaurant\accdatos\bin\Debug\accdatos.dll
+C:\Users\thoma\source\repos\restaurant\accdatos\bin\Debug\accdatos.pdb
+C:\Users\thoma\source\repos\restaurant\accdatos\obj\Debug\accdatos.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\restaurant\accdatos\obj\Debug\accdatos.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\restaurant\accdatos\obj\Debug\accdatos.dll
+C:\Users\thoma\source\repos\restaurant\accdatos\obj\Debug\accdatos.pdb
+C:\Users\thoma\source\repos\restaurant\accdatos\bin\Debug\entidades.dll
+C:\Users\thoma\source\repos\restaurant\accdatos\bin\Debug\entidades.pdb
+C:\Users\thoma\source\repos\restaurant\accdatos\obj\Debug\accdatos.csproj.CopyComplete

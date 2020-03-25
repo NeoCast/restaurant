@@ -1,0 +1,6 @@
+C:\Users\thoma\source\repos\restaurant\entidades\bin\Debug\entidades.dll
+C:\Users\thoma\source\repos\restaurant\entidades\bin\Debug\entidades.pdb
+C:\Users\thoma\source\repos\restaurant\entidades\obj\Debug\entidades.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\restaurant\entidades\obj\Debug\entidades.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\restaurant\entidades\obj\Debug\entidades.dll
+C:\Users\thoma\source\repos\restaurant\entidades\obj\Debug\entidades.pdb
